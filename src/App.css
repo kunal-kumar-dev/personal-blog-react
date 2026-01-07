@@ -58,3 +58,70 @@ button {
   margin-top: 10px;
   cursor: pointer;
 }
+.light {
+  background: #f4f6f8;
+  color: #000;
+}
+
+.dark {
+  background: #121212;
+  color: #fff;
+}
+
+.dark .container {
+  background: #1e1e1e;
+}
+
+.theme-btn {
+  margin-left: 15px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/* ===== THEME ROOT ===== */
+.light {
+  background-color: #f4f6f8;
+  color: #000;
+  min-height: 100vh;
+}
+
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+/* ===== NAVBAR ===== */
+.dark .navbar {
+  background-color: #1f1f1f;
+}
+
+.dark .navbar a {
+  color: #ffffff;
+}
+
+/* ===== CONTAINER ===== */
+.dark .container {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* ===== BLOG CARDS ===== */
+.dark .blog-card {
+  background-color: #2a2a2a;
+  border-color: #444;
+}
+
+/* ===== BUTTON ===== */
+.dark button {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #555;
+}
+
+/* ===== INPUTS ===== */
+.dark input,
+.dark textarea {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  border: 1px solid #555;
+}
