@@ -1,90 +1,105 @@
-# Personal Blog Website – ReactJS
+# Personal Blog Website (ReactJS)
 
-## 📌 Project Overview
-This is a **personal blog website** developed using **ReactJS** as part of my college project.  
-The main objective of this project is to understand how real-world React applications are built using components, routing, state management, and browser storage.
+## 🔍 Project Description
 
-Users can create, read, update, and delete blog posts.  
-All data is handled on the frontend and stored using **localStorage**.
+This is a **personal blog web application** developed using **ReactJS**
+as part of my academic project.\
+The purpose of this project is to understand how a real-world React
+application works using component-based architecture, routing, state
+management, and browser storage.
 
----
+Users can create, view, edit, and delete blog posts.\
+All data is managed on the frontend and stored using **browser
+localStorage**.
 
-## 🛠️ Tech Stack Used
-- ReactJS
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- React Router DOM
-- Browser localStorage
+------------------------------------------------------------------------
 
----
+## 🌐 Live Demo
 
-## ✨ Features
-- Home page with project introduction
-- Blog listing page
-- Blog details page
-- Create new blog post
-- Edit existing blog post
-- Delete blog post
-- Search blogs by title
-- Client-side routing using React Router
-- Data persistence using localStorage
-- Clean and responsive UI
+🔗 https://personal-blog-react.netlify.app/
 
----
+------------------------------------------------------------------------
 
-## 📂 Project Structure
+## 🛠️ Technologies Used
 
-src/
-├── components/
-│ └── Navbar.jsx
-│
-├── pages/
-│ ├── Home.jsx
-│ ├── Blogs.jsx
-│ ├── BlogDetails.jsx
-│ ├── CreateBlog.jsx
-│ ├── EditBlog.jsx
-│ └── About.jsx
-│
-├── utils/
-│ └── localStorage.js
-│
-├── App.js
-├── App.css
-└── index.js
+-   ReactJS
+-   JavaScript (ES6)
+-   HTML5
+-   CSS3
+-   React Router DOM
+-   Browser localStorage
+-   GitHub & Netlify (Deployment)
 
+------------------------------------------------------------------------
 
----
+## ✨ Key Features
 
-## ⚙️ How the Project Works
-- React components are used to build reusable UI
-- React Router is used for navigation and dynamic routes
-- Blog data is stored and managed using browser localStorage
-- CRUD operations are implemented using React hooks (`useState`, `useEffect`)
-- Global CSS is used for consistent styling
+-   Home page with project overview
+-   Blog listing page
+-   Individual blog details page
+-   Create new blog post
+-   Edit existing blog post
+-   Delete blog post
+-   Search blog by title
+-   Client-side routing using React Router
+-   Data persistence using localStorage
+-   Clean and simple UI design
 
----
+------------------------------------------------------------------------
 
-## ▶️ How to Run the Project
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm start`
-4. Open `http://localhost:3000` in the browser
+## 📁 Project Structure
 
----
+    src/
+     ├── components/
+     │    └── Navbar.jsx
+     │
+     ├── pages/
+     │    ├── Home.jsx
+     │    ├── Blogs.jsx
+     │    ├── BlogDetails.jsx
+     │    ├── CreateBlog.jsx
+     │    ├── EditBlog.jsx
+     │    └── About.jsx
+     │
+     ├── utils/
+     │    └── localStorage.js
+     │
+     ├── App.js
+     ├── App.css
+     └── index.js
 
-## 🎯 Learning Outcome
-Through this project, I learned:
-- React component-based architecture
-- Routing and dynamic URLs
-- State management using hooks
-- CRUD operations in frontend
-- Using localStorage for data persistence
-- Structuring a real-world React project
+------------------------------------------------------------------------
 
----
+## ⚙️ How It Works
+
+-   React components are used to create reusable UI elements
+-   React Router DOM handles navigation and dynamic routing
+-   Blog data is stored, updated, and deleted using localStorage
+-   State management is handled using React Hooks (`useState`,
+    `useEffect`)
+-   Global CSS is used for consistent styling across pages
+
+------------------------------------------------------------------------
+
+## ▶️ How to Run Locally
+
+1.  Clone the repository
+2.  Run `npm install`
+3.  Run `npm start`
+4.  Open `http://localhost:3000` in the browser
+
+------------------------------------------------------------------------
+
+## 📚 Learning Outcome
+
+From this project, I learned: - React component-based development -
+Client-side routing using React Router - State management with hooks -
+CRUD operations in frontend applications - Using localStorage for
+persistent data - Deploying React apps using Netlify
+
+------------------------------------------------------------------------
 
 ## 👤 Author
-**Kunal**  
+
+**Kunal Kumar**\
 Computer Science & Engineering Student
