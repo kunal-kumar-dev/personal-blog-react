@@ -44,6 +44,8 @@ localStorage**.
 -   Client-side routing using React Router
 -   Data persistence using localStorage
 -   Clean and simple UI design
+-   Dark and Light mode toggle with theme persistence
+
 
 ------------------------------------------------------------------------
 
@@ -92,10 +94,15 @@ localStorage**.
 
 ## 📚 Learning Outcome
 
-From this project, I learned: - React component-based development -
-Client-side routing using React Router - State management with hooks -
-CRUD operations in frontend applications - Using localStorage for
-persistent data - Deploying React apps using Netlify
+From this project, I learned: 
+- React component-based development 
+- Client-side routing using React Router 
+- State management with hooks 
+- CRUD operations in frontend applications 
+- Using localStorage for persistent data 
+- Deploying React apps using Netlify
+- Implementing theme switching using React state and localStorage
+
 
 ------------------------------------------------------------------------
 
