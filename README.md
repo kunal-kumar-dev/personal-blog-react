@@ -86,5 +86,5 @@ Through this project, I learned:
 ---
 
 ## 👤 Author
-**Kunal**  
+**Kunal Kumar**  
 Computer Science & Engineering Student
